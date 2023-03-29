@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevMunakas
 - 👀 I’m interested in programming and website and game design.
-- 🌱 I’m currently learning React and TypeScript.
+- 🌱 I’m currently learning Rust and TypeScript.
 - 💞️ I’m looking to collaborate on amazing projects.
 - 📫 You can reach me with my email "ras.lehtonen@gmail.com".
 
