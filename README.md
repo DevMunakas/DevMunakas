@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @DevMunakas
-- 👀 I’m interested in programming and website and game design.
-- 🌱 I’m currently learning Rust and TypeScript.
-- 💞️ I’m looking to collaborate on amazing projects.
-- 📫 You can reach me with my email "ras.lehtonen@gmail.com".
+Hello there warrior! Looks like you've found my README file. Well, there's currently no stuff in my profile but maybe in the future we'll have some.
 
-<!---
-DevMunakas/DevMunakas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A little bit about me:
+I'm a hobbyist web and multi-platform developer from Finland, currently learning Rust's amazing world.
